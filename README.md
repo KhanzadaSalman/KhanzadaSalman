@@ -20,34 +20,22 @@ I'm an AI Engineer and MS in Data Science graduate with over one year of hands-o
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages & Web
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,sql,js,html,css" />
 </p>
 
-### 🤖 AI & Machine Learning
+### 🤖 AI / Machine Learning / Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,fastapi,flask" />
 </p>
 
-### ⚙️ Backend & Frameworks
+### 🗄️ Databases & Development Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
-
-### ☁️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,vscode" />
 </p>
 
 ### 🔧 AI & Data Tools
