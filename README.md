@@ -23,7 +23,7 @@ I'm an AI Engineer and MS in Data Science graduate with over one year of hands-o
 ### 💻 Languages & Web
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,R,JavaScript,C++,sql" />
 </p>
 
 ### 🤖 AI / Machine Learning / Backend
