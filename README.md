@@ -1,8 +1,8 @@
 # Hi 👋, I'm Salman Khan
 
-### AI Engineer | Generative AI | Agentic RAG | NLP | FastAPI | Python
+### AI Engineer | Generative AI | Agentic RAG | LLMs | NLP | Machine Learning | FastAPI | Python
 
-I'm an AI Engineer and MS in Data Science graduate with over one year of hands-on experience developing production-ready AI applications. My work focuses on Generative AI, Large Language Models (LLMs), Agentic RAG, Natural Language Processing (NLP), and Machine Learning, building intelligent and scalable solutions that solve real-world business problems.
+I'm an AI Engineer and MS in Data Science graduate with over one year of hands-on experience developing production-ready AI applications. I specialize in Generative AI, Large Language Models (LLMs), Agentic Retrieval-Augmented Generation (Agentic RAG), Natural Language Processing (NLP), and Machine Learning, building intelligent systems that solve real-world business problems.
 
 ---
 
@@ -10,119 +10,157 @@ I'm an AI Engineer and MS in Data Science graduate with over one year of hands-o
 
 - 🎓 MS in Data Science graduate with a Bachelor's degree in Mathematics.
 - 💼 Former Junior AI Developer with experience building production-ready AI applications.
-- 🤖 Specialized in Generative AI, Agentic RAG, Large Language Models (LLMs), Natural Language Processing (NLP), and Machine Learning.
-- 🚀 Experienced in building AI chatbots, LLM-powered applications, FastAPI APIs, vector databases, and intelligent automation solutions.
-- 🌱 Currently exploring AI Agents, Multimodal AI, advanced RAG architectures, and cloud deployment.
+- 🤖 Specialized in Generative AI, LLM-powered applications, Agentic RAG, NLP, and Machine Learning.
+- 🚀 Experienced in developing AI chatbots, FastAPI backend services, vector databases, intelligent automation, and end-to-end AI solutions.
+- 🔍 Strong interest in AI Agents, Multimodal AI, Retrieval-Augmented Generation (RAG), and scalable AI systems.
+- 🌱 Continuously learning modern AI technologies and production deployment best practices.
 - 📍 Based in Islamabad, Pakistan.
 - 💼 Open to AI Engineer, Machine Learning Engineer, NLP Engineer, and Generative AI Engineer opportunities.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Technical Skills
 
-### 💻 Languages & Web
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,R,JavaScript,C++,sql" />
-</p>
-
-### 🤖 AI / Machine Learning / Backend
+## 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,fastapi,flask" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,sql" />
 </p>
 
-### 🗄️ Databases & Development Tools
+## 🤖 AI • Machine Learning • Deep Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
 </p>
 
-### 🔧 AI & Data Tools
+**Technologies**
 
-Hugging Face • ChromaDB • Streamlit • Pandas • NumPy • Keras
+TensorFlow • Keras • NLP • LLMs • Generative AI • Agentic RAG • Prompt Engineering • Hugging Face • ChromaDB • Pandas • NumPy
 
 ---
 
-## 🚀 Featured Projects
+## ⚙️ Backend Development
 
-### 🤖 Salman AI Portfolio Assistant
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi,flask" />
+</p>
 
-AI-powered portfolio assistant built using Large Language Models (LLMs), Hugging Face Router, FastAPI, and Streamlit. Supports intelligent conversations in both English and Roman Urdu.
+**Experience With**
 
-🔗 **View Repository:**  
+REST APIs • AI Chatbots • Streamlit • API Integration • Intelligent Automation
+
+---
+
+## 🗄️ Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+---
+
+## ☁️ Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 Salman AI Portfolio Assistant
+
+An AI-powered portfolio assistant built with Large Language Models (LLMs), Hugging Face Router, FastAPI, and Streamlit. It provides intelligent, context-aware conversations in both English and Roman Urdu using a custom knowledge base and prompt engineering.
+
+**Tech Stack:** Python • FastAPI • Streamlit • Hugging Face Router • LLMs • Prompt Engineering
+
+🔗 Repository:
 https://github.com/KhanzadaSalman/Salman-AI-Portfolio-Assistant
 
 ---
 
-### 🚫 SpamGuard AI
+## 🚫 SpamGuard AI
 
-Production-ready Deep Learning application for SMS spam detection using TensorFlow, CNN, FastAPI, and a modern web interface.
+A production-ready Deep Learning application for SMS spam detection using a Convolutional Neural Network (CNN). The project includes a FastAPI backend, responsive web interface, and real-time prediction pipeline.
 
-🔗 **View Repository:**  
+**Tech Stack:** TensorFlow • Keras • CNN • FastAPI • HTML • CSS • JavaScript
+
+🔗 Repository:
 https://github.com/KhanzadaSalman/SpamGuard-AI
 
 ---
 
-### 💬 Roman Urdu Hate Speech Detection
+## 💬 Roman Urdu Hate Speech Detection
 
-MS Data Science research project using a Depthwise Separable Convolutional Neural Network (DSCNN) for hate speech detection in Roman Urdu.
+My MS Data Science thesis project, where I developed a Depthwise Separable Convolutional Neural Network (DSCNN) to detect hate speech in Roman Urdu using custom preprocessing and deep learning techniques.
 
-🔗 **View Repository:**  
+**Tech Stack:** Python • TensorFlow • DSCNN • NLP • Deep Learning
+
+🔗 Repository:
 https://github.com/KhanzadaSalman/Roman-Urdu-Hatespeech-Detection
 
 ---
 
-### 📧 Spam Email Detector
+## 📧 Spam Email Detector
 
-Machine Learning web application for spam email detection using Naive Bayes, Natural Language Processing (NLP), and Flask.
+A Machine Learning web application that classifies emails as Spam or Ham using Natural Language Processing (NLP), Naive Bayes, and Flask.
 
-🔗 **View Repository:**  
+**Tech Stack:** Python • Scikit-learn • Flask • NLP
+
+🔗 Repository:
 https://github.com/KhanzadaSalman/Spam-Email-Detector
 
 ---
 
-### ✈️ British Airways Data Science Job Simulation
+## ✈️ British Airways Data Science Job Simulation
 
-Machine Learning project focused on predicting airline booking completion using Random Forest and feature engineering.
+A Machine Learning project completed during the British Airways Data Science Job Simulation. Developed a Random Forest model to predict customer booking completion using feature engineering and exploratory data analysis.
 
-🔗 **View Repository:**  
+**Tech Stack:** Python • Pandas • Scikit-learn • Random Forest
+
+🔗 Repository:
 https://github.com/KhanzadaSalman/British-Airways-Project
 
 ---
 
-### 🫁 Lung Cancer Prediction
+## 🫁 Lung Cancer Prediction
 
-Machine Learning project for predicting lung cancer risk using healthcare data, statistical analysis, and Scikit-learn.
+A Machine Learning project that predicts lung cancer risk using healthcare data, statistical analysis, feature engineering, and predictive modeling techniques.
 
-🔗 **View Repository:**  
-https://github.com/KhanzadaSalman/Lung-Cancer-Prediction
+**Tech Stack:** Python • Scikit-learn • Pandas • Machine Learning
+
+🔗 Repository:
+https://github.com/KhanzadaSalman/LungCancerPrediction
 
 ---
 
-## 🌱 Currently Learning
+# 💼 Development Workflow
+
+I build AI applications using modern tools across the complete machine learning lifecycle.
+
+- 💻 Visual Studio Code
+- 📓 Jupyter Notebook
+- ☁️ Google Colab
+- 📊 Microsoft Excel
+- 🐍 Python Ecosystem
+- 🔀 Git & GitHub
+- 🐳 Docker
+
+---
+
+# 🌱 Currently Learning
 
 - 🤖 AI Agents
-- 🧠 Agentic RAG
+- 🧠 Advanced Agentic RAG
 - 👁️ Multimodal AI
 - ⚡ LLM Application Development
-- 🐳 Docker & Cloud Deployment
+- ☁️ Cloud Deployment
+- 🐳 Docker for AI Applications
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KhanzadaSalman&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KhanzadaSalman&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -132,7 +170,7 @@ https://github.com/KhanzadaSalman/Lung-Cancer-Prediction
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 
